@@ -1,0 +1,19 @@
+src/
+ ├─ components/
+ │   ├─ LoginForm.tsx
+ │   ├─ ArticleList.tsx
+ │   ├─ ArticleDetail.tsx
+ │   ├─ PaymentModal.tsx
+ │   └─ CheckoutButton.tsx
+ ├─ hooks/
+ │   ├─ useAuth.ts
+ │   ├─ useArticles.ts
+ │   └─ usePayment.ts
+ ├─ api/
+ │   ├─ auth.api.ts
+ │   ├─ article.api.ts
+ │   └─ payment.api.ts
+ └─ types/
+     ├─ auth.types.ts
+     ├─ article.types.ts
+     └─ payment.types.ts

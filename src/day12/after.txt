@@ -1,0 +1,19 @@
+src
+    features
+        auth
+            LoginForm.tsx
+            useAuth.ts
+            auth.api.ts
+            auth.types.ts
+        article
+            ArticleList.tsx
+            ArticleDetail.tsx
+            useArticles.ts
+            article.api.ts
+            article.types.ts
+        payment
+            PaymentModal.tsx
+            CheckoutButton.tsx
+            usePayment.ts
+            payment.api.ts
+            payment.types.ts
